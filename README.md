@@ -66,5 +66,5 @@ AI-Podcast-Generator-from-Notes/
 
 ## Author
 **Saketh Pragallapati**  
-[LinkedIn](https://linkedin.com/in/sakethpragallapati)  
+[LinkedIn]([https://linkedin.com/in/sakethpragallapati](https://www.linkedin.com/in/pragallapati-saketh-143384290/))  
 [GitHub](https://github.com/sakethpragallapati)
