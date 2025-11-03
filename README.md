@@ -36,7 +36,7 @@ AI-Podcast-Generator-from-Notes/
 
 ## Setup and Usage
 1. Open the notebook directly in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11H8Gkx41-Mw0tGQOaBO79GIKk_qvLMkU#scrollTo=RMSe4oox2Ob_)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/11H8Gkx41-Mw0tGQOaBO79GIKk_qvLMkU#scrollTo=RMSe4oox2Ob_](https://colab.research.google.com/drive/11H8Gkx41-Mw0tGQOaBO79GIKk_qvLMkU#scrollTo=2nvJ9FzwMTzR))
 
 2. Upload your notes or PDF file using the Colab file upload interface.
 
